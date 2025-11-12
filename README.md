@@ -1,6 +1,6 @@
 
 
-# Fruit Shop Management System
+# Fruit Inventory Management System
 
 A **Python-based console application** that helps manage a fruit shop.  
 It allows both the **shop owner** and **customers** to interact through a simple text-based menu system — including inventory management, billing, and sales reports.
